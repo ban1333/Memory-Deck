@@ -23,3 +23,6 @@ Things you may want to cover:
 
 * ...
 "# Memory-Deck" 
+
+docker-compose run --service-ports web bash
+rails s -b 0.0.0.0
