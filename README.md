@@ -23,7 +23,12 @@ Things you may want to cover:
 
 * ...
 "# Memory-Deck" 
+* For new machines run 
 ```
-docker-compose run --service-ports web bash
-rails s -b 0.0.0.0
+docker-compose build
+```
+
+* If you already have an image run
+```
+docker-compose run
 ```
