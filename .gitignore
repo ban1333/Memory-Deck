@@ -38,4 +38,4 @@
 *.iml
 
 # Ignore Gemfile.lock
-Gemfile.lock
+*.lock

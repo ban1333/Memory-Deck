@@ -70,3 +70,7 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "grape", "~> 1.7"
+
+gem "rspec", "~> 3.12"
