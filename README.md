@@ -30,5 +30,5 @@ docker-compose build
 
 * If you already have an image run
 ```
-docker-compose run
+docker-compose up
 ```
